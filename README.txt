@@ -1,4 +1,5 @@
-Esse projeto é destinado à criação de uma aplicação utilizando os conceitos de arquiteturais HTTP/2 REST.
+Esse projeto é destinado à criação de uma aplicação MEVN (Mongo, Express, Vue.js 2 e Node) 
+utilizando os conceitos de arquiteturais HTTP/2 REST.
 
 Frameworks e Tecnologias utilizadas:
 
