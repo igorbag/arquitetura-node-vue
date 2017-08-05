@@ -15,4 +15,8 @@ FrontEnd:
 	- Vue.js V2
 	- Vuetify
 	
+
+Configurações:
+ - Utilizando MLab para armazenar os documentos do MongoDB.
+
 	
