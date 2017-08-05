@@ -1,0 +1,13 @@
+{
+  "name": "estacionamento_app",
+  "version": "1.0.0s",
+  "description": "Node.js on Docker",
+  "author": "Igor Rotondo Bagliotti",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
